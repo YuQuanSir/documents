@@ -1,6 +1,6 @@
 module.exports = {
     title:'LeoChenTechStack',
-    base:"/documents/",
+    base:"/docs/",
     locales: {
         '/': {
           lang: 'zh-CN', // 将会被设置为 <html> 的 lang 属性

@@ -1,6 +1,6 @@
 module.exports = {
     title:'LeoChenTechStack',
-    base:"/documents/",
+    base:"/docs/",
     locales: {
         '/': {
           lang: 'zh-CN', // 将会被设置为 <html> 的 lang 属性
@@ -18,7 +18,7 @@ module.exports = {
         // // 假如你的文档仓库和项目本身不在一个仓库：
         // docsRepo: 'vuejs/vuepress',
         // // 假如文档不是放在仓库的根目录下：
-        docsDir: 'docs',
+        // docsDir: 'docs',
         // // 假如文档放在一个特定的分支下：
         // docsBranch: 'master',
         // // 默认是 false, 设置为 true 来启用

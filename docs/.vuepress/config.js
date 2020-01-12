@@ -130,9 +130,12 @@ sidebar: {
     '/script/javascript/': [{
         title: 'JavaScript',
         collapsable: false,
+        sidebarDepth: 3,
         children: [
             '/script/javascript/js0',
-            '/script/javascript/js1'
+            '/script/javascript/js1',
+            '/script/javascript/js2',
+            '/script/javascript/js3'
         ]
     }]
 }
